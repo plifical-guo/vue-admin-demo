@@ -1,2 +1,0 @@
-# gxw
-simple
