@@ -16,13 +16,13 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
-```
+
 npm install
    
 npm install --registry=https://registry.npm.taobao.org
 
 npm run dev
-```
+
 浏览器访问 http://localhost:9527
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
