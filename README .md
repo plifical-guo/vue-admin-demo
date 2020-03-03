@@ -17,7 +17,6 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-# install dependance
 npm install
    
 npm install --registry=https://registry.npm.taobao.org
